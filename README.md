@@ -1,2 +1,2 @@
-# Petsite
-A beautiful site with a modern django backend, tailwind styling, vue and Base UI
+# PetSite
+A beautiful site with a modern django backend, tailwind styling, vue/vite and Radix UI
